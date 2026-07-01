@@ -1,0 +1,25 @@
+<svg width="1200" height="42" viewBox="0 0 1200 42" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated sparkle divider</title>
+  <desc id="desc">Pastel gradient divider with subtle animated sparkles.</desc>
+  <defs>
+    <linearGradient id="line" x1="120" y1="21" x2="1080" y2="21" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E7D8F5" stop-opacity="0" />
+      <stop offset="25%" stop-color="#C49AEF" />
+      <stop offset="50%" stop-color="#7C8CF4" />
+      <stop offset="75%" stop-color="#D89BFF" />
+      <stop offset="100%" stop-color="#E7D8F5" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <path d="M120 21H1080" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" />
+  <g>
+    <path d="M330 14L333 21L340 24L333 27L330 34L327 27L320 24L327 21L330 14Z" fill="#D89BFF">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="4.6s" repeatCount="indefinite" />
+    </path>
+    <path d="M600 10L603 18L611 21L603 24L600 32L597 24L589 21L597 18L600 10Z" fill="#7C8CF4">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="5.1s" repeatCount="indefinite" />
+    </path>
+    <path d="M870 14L873 21L880 24L873 27L870 34L867 27L860 24L867 21L870 14Z" fill="#C49AEF">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
