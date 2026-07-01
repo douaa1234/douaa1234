@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-profile-banner.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-profile-banner.svg" />
-  <img src="./assets/github-profile-banner-light.svg" alt="Douaa Ghezali animated GitHub profile banner" width="100%" />
+  <img src="./github-profile-banner-light.svg" alt="Douaa Ghezali animated GitHub profile banner" width="100%" />
 </picture>
 
 <br />
