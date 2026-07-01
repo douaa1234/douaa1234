@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <picture>
@@ -59,10 +58,10 @@ My main interests are software engineering, AI, full-stack development, healthca
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-soft_teal?style=for-the-badge&labelColor=F7F1FB&color=9EE6D8&logo=fastapi&logoColor=245B57)
-![TypeScript](https://img.shields.io/badge/TypeScript-soft_blue?style=for-the-badge&labelColor=F7F1FB&color=B9CCFF&logo=typescript&logoColor=26427A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-soft_peach?style=for-the-badge&labelColor=F7F1FB&color=FFD3B6&logo=tensorflow&logoColor=A34C16)
-![OpenCV](https://img.shields.io/badge/OpenCV-soft_lilac?style=for-the-badge&labelColor=F7F1FB&color=E5CCFF&logo=opencv&logoColor=5E3A8C)
+![FastAPI](https://img.shields.io/badge/FastAPI-9EE6D8?style=for-the-badge&labelColor=F7F1FB&color=9EE6D8&logo=fastapi&logoColor=245B57)
+![TypeScript](https://img.shields.io/badge/TypeScript-B9CCFF?style=for-the-badge&labelColor=F7F1FB&color=B9CCFF&logo=typescript&logoColor=26427A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD3B6?style=for-the-badge&labelColor=F7F1FB&color=FFD3B6&logo=tensorflow&logoColor=A34C16)
+![OpenCV](https://img.shields.io/badge/OpenCV-E5CCFF?style=for-the-badge&labelColor=F7F1FB&color=E5CCFF&logo=opencv&logoColor=5E3A8C)
 
 </div>
 
@@ -74,8 +73,12 @@ My main interests are software engineering, AI, full-stack development, healthca
       <h3>Portfolio Website</h3>
       <p>Responsive portfolio built with React and TypeScript to showcase projects, experience, and technical strengths with a polished recruiter-friendly feel.</p>
       <p>
-        <a href="https://www.douaaghezali.com"><img src="https://img.shields.io/badge/Live%20Site-visit-CEAAF3?style=for-the-badge&labelColor=F7F1FB&logo=vercel&logoColor=5A2D82" alt="Portfolio live site" /></a>
-        <a href="https://github.com/douaa1234/Portfolio_Douaa_Ghezali"><img src="https://img.shields.io/badge/Repository-view-BFD2FF?style=for-the-badge&labelColor=F7F1FB&logo=github&logoColor=25314F" alt="Portfolio repository" /></a>
+        <a href="https://www.douaaghezali.com">
+          <img src="https://img.shields.io/badge/Portfolio-F7F1FB?style=for-the-badge&logo=vercel&logoColor=5A2D82&labelColor=CEAAF3&color=CEAAF3" alt="Portfolio" />
+        </a>
+        <a href="https://github.com/douaa1234/Portfolio_Douaa_Ghezali">
+          <img src="https://img.shields.io/badge/GitHub-F7F1FB?style=for-the-badge&logo=github&logoColor=25314F&labelColor=BFD2FF&color=BFD2FF" alt="GitHub" />
+        </a>
       </p>
       <p><sub>React • TypeScript • UI Design • Portfolio Experience</sub></p>
     </td>
@@ -83,7 +86,9 @@ My main interests are software engineering, AI, full-stack development, healthca
       <h3>KettleForm</h3>
       <p>TinyML kettlebell exercise tracker combining Arduino Nano 33 BLE, Android Studio, BLE, MediaPipe Pose, and embedded ML for movement feedback.</p>
       <p>
-        <a href="https://github.com/douaa1234/KettleForm"><img src="https://img.shields.io/badge/Repository-view-FFCEE1?style=for-the-badge&labelColor=F7F1FB&logo=github&logoColor=6A2C4B" alt="KettleForm repository" /></a>
+        <a href="https://github.com/douaa1234/KettleForm">
+          <img src="https://img.shields.io/badge/GitHub-F7F1FB?style=for-the-badge&logo=github&logoColor=6A2C4B&labelColor=FFD6E7&color=FFD6E7" alt="GitHub" />
+        </a>
       </p>
       <p><sub>Android Studio • Arduino Nano 33 BLE • BLE • MediaPipe Pose • TinyML</sub></p>
     </td>
@@ -93,7 +98,9 @@ My main interests are software engineering, AI, full-stack development, healthca
       <h3>Corneal Ulcer Segmentation</h3>
       <p>Deep learning medical image segmentation project focused on analysing corneal ulcer imagery with a U-Net/TensorFlow workflow for healthcare AI experimentation.</p>
       <p>
-        <a href="https://github.com/douaa1234/CornealUlcerAssessmentApp"><img src="https://img.shields.io/badge/Repository-view-D7C6FF?style=for-the-badge&labelColor=F7F1FB&logo=github&logoColor=4B2F83" alt="Corneal Ulcer project repository" /></a>
+        <a href="https://github.com/douaa1234/CornealUlcerAssessmentApp">
+          <img src="https://img.shields.io/badge/GitHub-F7F1FB?style=for-the-badge&logo=github&logoColor=4B2F83&labelColor=DCCBFF&color=DCCBFF" alt="GitHub" />
+        </a>
       </p>
       <p><sub>U-Net • TensorFlow • Medical Imaging • Computer Vision • Healthcare AI</sub></p>
     </td>
@@ -150,15 +157,15 @@ My main interests are software engineering, AI, full-stack development, healthca
 <div align="center">
 
 <a href="https://www.douaaghezali.com">
-  <img src="https://img.shields.io/badge/Portfolio-visit-CEAAF3?style=for-the-badge&labelColor=F7F1FB&logo=About.me&logoColor=5A2D82" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-F7F1FB?style=for-the-badge&logo=About.me&logoColor=5A2D82&labelColor=CEAAF3&color=CEAAF3" alt="Portfolio" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-BFD2FF?style=for-the-badge&labelColor=F7F1FB&logo=linkedin&logoColor=244C8A" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-F7F1FB?style=for-the-badge&logo=linkedin&logoColor=244C8A&labelColor=BFD2FF&color=BFD2FF" alt="LinkedIn" />
 </a>
 
 <a href="mailto:douaaghezali17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-say%20hello-FFD6E7?style=for-the-badge&labelColor=F7F1FB&logo=gmail&logoColor=8B355F" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-F7F1FB?style=for-the-badge&logo=gmail&logoColor=8B355F&labelColor=FFD6E7&color=FFD6E7" alt="Email" />
 </a>
 
 <br />
