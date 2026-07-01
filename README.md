@@ -144,7 +144,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
   <img src="https://img.shields.io/badge/Portfolio%20Website-F7F1FB?style=for-the-badge&logo=About.me&logoColor=5A2D82&labelColor=CEAAF3&color=CEAAF3" alt="Portfolio Website" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="https://www.linkedin.com/in/douaa-ghezali/">
   <img src="https://img.shields.io/badge/LinkedIn%20Profile-F7F1FB?style=for-the-badge&logo=linkedin&logoColor=244C8A&labelColor=BFD2FF&color=BFD2FF" alt="LinkedIn Profile" />
 </a>
 
