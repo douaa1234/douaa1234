@@ -25,9 +25,9 @@
 
 ## Hi, I'm Douaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand" />
 
-I'm a First-Class Computer Science graduate from the University of Birmingham and I really enjoy building software that is useful, well made, and fun to work on.
+I'm a First-Class Computer Science graduate from the University of Birmingham and I really enjoy building software that is useful, well made and fun to work on.
 
-I'm especially interested in software engineering, AI, full-stack development, healthcare technology, TinyML, computer vision, and data analytics. I like taking an idea from the early stage and turning it into something real that people can actually use.
+I'm especially interested in software engineering, AI, full-stack development, healthcare technology, TinyML, computer vision and data analytics. I like taking an idea from the early stage and turning it into something real that people can actually use.
 
 <br />
 
@@ -36,8 +36,8 @@ I'm especially interested in software engineering, AI, full-stack development, h
 ## About Me
 
 - First-Class BSc Computer Science graduate from the University of Birmingham
-- I enjoy working across software engineering, AI, and full-stack product development
-- A lot of the work I enjoy most sits around healthcare AI, embedded ML, modern web apps, and computer vision
+- I enjoy working across software engineering, AI and full-stack product development
+- A lot of the work I enjoy most sits around healthcare AI, embedded ML, modern web apps and computer vision
 - I’m always learning something new and then finding a way to build with it
 
 ## Tech Stack
@@ -97,7 +97,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
   <tr>
     <td width="50%">
       <h3>Portfolio Website</h3>
-      <p>My portfolio site where I bring together my projects, experience, and a bit of my personal style in one place.</p>
+      <p>My portfolio site where I bring together my projects, experience and a bit of my personal style in one place.</p>
       <p>
         <a href="https://www.douaaghezali.com"><img src="https://img.shields.io/badge/Live%20Portfolio-F7F1FB?style=for-the-badge&logo=vercel&logoColor=5A2D82&labelColor=CEAAF3&color=CEAAF3" alt="Live Portfolio" /></a>
         <a href="https://github.com/douaa1234/Portfolio_Douaa_Ghezali"><img src="https://img.shields.io/badge/Portfolio%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=25314F&labelColor=BFD2FF&color=BFD2FF" alt="Portfolio Repo" /></a>
@@ -106,7 +106,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
     </td>
     <td width="50%">
       <h3>KettleForm</h3>
-      <p>A TinyML kettlebell exercise tracker that combines Arduino Nano 33 BLE, Android Studio, BLE, MediaPipe Pose, and embedded ML for movement feedback.</p>
+      <p>A TinyML kettlebell exercise tracker that combines Arduino Nano 33 BLE Android Studio, BLE, MediaPipe Pose and embedded ML for movement feedback.</p>
       <p>
         <a href="https://github.com/douaa1234/KettleForm"><img src="https://img.shields.io/badge/KettleForm%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=6A2C4B&labelColor=FFD6E7&color=FFD6E7" alt="KettleForm Repo" /></a>
       </p>
