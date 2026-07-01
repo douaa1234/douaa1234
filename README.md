@@ -16,7 +16,7 @@
 
 <br />
 
-<img src="./assets/sparkle-divider.svg" alt="Animated sparkle divider" width="100%" />
+<img src="./sparkle-divider.svg" alt="Animated sparkle divider" width="100%" />
 
 </div>
 
