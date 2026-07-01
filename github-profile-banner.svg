@@ -1,0 +1,81 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Douaa Ghezali GitHub Profile Banner</title>
+  <desc id="desc">Animated banner with a light portfolio-inspired gradient, floating particles, and glowing text introducing Douaa Ghezali as a software engineer and AI developer.</desc>
+  <defs>
+    <linearGradient id="bgGradient" x1="120" y1="40" x2="1160" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F9F6FC">
+        <animate attributeName="stop-color" values="#F9F6FC;#F3EDF7;#F9F6FC" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="55%" stop-color="#FDFBFF">
+        <animate attributeName="stop-color" values="#FDFBFF;#F6EEF9;#FDFBFF" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#F4EDF8">
+        <animate attributeName="stop-color" values="#F4EDF8;#F0E8F6;#F4EDF8" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 90) rotate(20) scale(260 220)">
+      <stop stop-color="#D89BFF" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#D89BFF" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 210) rotate(-12) scale(320 220)">
+      <stop stop-color="#C49AEF" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#C49AEF" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="30" fill="url(#bgGradient)" />
+  <rect x="1.5" y="1.5" width="1277" height="317" rx="28.5" stroke="#E8DBF5" />
+  <ellipse cx="220" cy="90" rx="260" ry="220" fill="url(#glowLeft)">
+    <animate attributeName="cx" values="220;250;220" dur="9s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="1030" cy="210" rx="320" ry="220" fill="url(#glowRight)">
+    <animate attributeName="cx" values="1030;1000;1030" dur="11s" repeatCount="indefinite" />
+  </ellipse>
+
+  <g opacity="0.75">
+    <circle cx="980" cy="84" r="4" fill="#D89BFF">
+      <animate attributeName="cy" values="84;68;84" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.35;0.9;0.35" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1110" cy="128" r="3.5" fill="#C49AEF">
+      <animate attributeName="cy" values="128;112;128" dur="7.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.25;0.8;0.25" dur="7.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1068" cy="224" r="5" fill="#7C8CF4">
+      <animate attributeName="cy" values="224;206;224" dur="8.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.3;0.85;0.3" dur="8.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="926" cy="190" r="2.5" fill="#E7C0FF">
+      <animate attributeName="cy" values="190;176;190" dur="5.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.75;0.2" dur="5.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1175" cy="72" r="2" fill="#CEA8F3">
+      <animate attributeName="cy" values="72;58;72" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <text x="88" y="118" fill="#191326" font-family="'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.2">
+      Douaa Ghezali
+    </text>
+    <text x="92" y="162" fill="#6F6784" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.6">
+      Software Engineer | AI Developer
+    </text>
+    <text x="92" y="212" fill="#191326" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="500">
+      Building intelligent software for real-world impact
+    </text>
+  </g>
+
+  <path d="M92 244H494" stroke="#E8DBF5" stroke-width="1.5" opacity="0.9" />
+  <path d="M92 245H420" stroke="#B77AE8" stroke-width="2.4" stroke-linecap="round" opacity="0.85">
+    <animate attributeName="d" values="M92 245H310;M92 245H470;M92 245H310" dur="7s" repeatCount="indefinite" />
+  </path>
+</svg>
