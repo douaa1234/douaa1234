@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/github-profile-banner.svg" alt="Douaa Ghezali banner" width="100%" />
+<img src="./github-profile-banner.svg" alt="Douaa Ghezali banner" width="100%" />
 
 <br />
 
