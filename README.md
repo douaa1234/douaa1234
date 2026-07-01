@@ -138,7 +138,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
       <p>📚 Always learning</p>
     </td>
     <td valign="top" width="44%" align="center">
-      <img src="./skiing-beyond-tech.jpg" alt="Douaa skiing in the mountains" width="100%" />
+      <img src="./IMG_7253 Medium.jpeg" alt="Douaa skiing in the mountains" width="100%" />
     </td>
   </tr>
 </table>
