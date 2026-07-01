@@ -1,0 +1,23 @@
+<svg width="260" height="46" viewBox="0 0 260 46" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Floating stars</title>
+  <desc id="desc">A subtle animated row of pastel stars and sparkles.</desc>
+  <g opacity="0.95">
+    <path d="M32 10L34.8 16.2L41 19L34.8 21.8L32 28L29.2 21.8L23 19L29.2 16.2L32 10Z" fill="#D89BFF">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="4.4s" repeatCount="indefinite" />
+    </path>
+    <circle cx="74" cy="23" r="3.5" fill="#BFD2FF">
+      <animate attributeName="cy" values="23;20;23" dur="5.1s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.3;0.95;0.3" dur="5.1s" repeatCount="indefinite" />
+    </circle>
+    <path d="M126 8L128.6 14.4L135 17L128.6 19.6L126 26L123.4 19.6L117 17L123.4 14.4L126 8Z" fill="#C49AEF">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.8s" repeatCount="indefinite" />
+    </path>
+    <circle cx="168" cy="24" r="4" fill="#FFD6E7">
+      <animate attributeName="cy" values="24;20;24" dur="5.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="5.6s" repeatCount="indefinite" />
+    </circle>
+    <path d="M222 10L224.8 16.2L231 19L224.8 21.8L222 28L219.2 21.8L213 19L219.2 16.2L222 10Z" fill="#7C8CF4">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="4.2s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
