@@ -130,7 +130,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
 <table>
   <tr>
     <td valign="top" width="56%">
-      <p>When I’m not coding, I love exploring new places, learning random interesting things, and taking on new challenges.</p>
+      <p>When I’m not coding, I love exploring new places, learning random interesting things and taking on new challenges.</p>
       <br />
       <p>⛷️ Skiing</p>
       <p>🌌 Astronomy</p>
