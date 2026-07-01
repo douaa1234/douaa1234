@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-banner.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-profile-banner.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-profile-banner-light.svg" />
   <img src="./github-profile-banner-light.svg" alt="Douaa Ghezali animated GitHub profile banner" width="100%" />
 </picture>
 
@@ -99,12 +99,8 @@ I'm especially interested in software engineering, AI, full-stack development, h
       <h3>Portfolio Website</h3>
       <p>My portfolio site built to present my work, experience, and technical strengths in a clean and polished way.</p>
       <p>
-        <a href="https://www.douaaghezali.com">
-          <img src="https://img.shields.io/badge/Live%20Portfolio-F7F1FB?style=for-the-badge&logo=vercel&logoColor=5A2D82&labelColor=CEAAF3&color=CEAAF3" alt="Live Portfolio" />
-        </a>
-        <a href="https://github.com/douaa1234/Portfolio_Douaa_Ghezali">
-          <img src="https://img.shields.io/badge/Portfolio%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=25314F&labelColor=BFD2FF&color=BFD2FF" alt="Portfolio Repo" />
-        </a>
+        <a href="https://www.douaaghezali.com"><img src="https://img.shields.io/badge/Live%20Portfolio-F7F1FB?style=for-the-badge&logo=vercel&logoColor=5A2D82&labelColor=CEAAF3&color=CEAAF3" alt="Live Portfolio" /></a>
+        <a href="https://github.com/douaa1234/Portfolio_Douaa_Ghezali"><img src="https://img.shields.io/badge/Portfolio%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=25314F&labelColor=BFD2FF&color=BFD2FF" alt="Portfolio Repo" /></a>
       </p>
       <p><sub>React • TypeScript • UI Design • Portfolio Experience</sub></p>
     </td>
@@ -112,9 +108,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
       <h3>KettleForm</h3>
       <p>A TinyML kettlebell exercise tracker combining Arduino Nano 33 BLE, Android Studio, BLE, MediaPipe Pose, and embedded ML for movement feedback.</p>
       <p>
-        <a href="https://github.com/douaa1234/KettleForm">
-          <img src="https://img.shields.io/badge/KettleForm%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=6A2C4B&labelColor=FFD6E7&color=FFD6E7" alt="KettleForm Repo" />
-        </a>
+        <a href="https://github.com/douaa1234/KettleForm"><img src="https://img.shields.io/badge/KettleForm%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=6A2C4B&labelColor=FFD6E7&color=FFD6E7" alt="KettleForm Repo" /></a>
       </p>
       <p><sub>Android Studio • Arduino Nano 33 BLE • BLE • MediaPipe Pose • TinyML</sub></p>
     </td>
@@ -124,9 +118,7 @@ I'm especially interested in software engineering, AI, full-stack development, h
       <h3>Corneal Ulcer Segmentation</h3>
       <p>A deep learning medical image segmentation project focused on analysing corneal ulcer imagery with a U-Net/TensorFlow workflow.</p>
       <p>
-        <a href="https://github.com/douaa1234/CornealUlcerAssessmentApp">
-          <img src="https://img.shields.io/badge/Corneal%20Ulcer%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=4B2F83&labelColor=DCCBFF&color=DCCBFF" alt="Corneal Ulcer Repo" />
-        </a>
+        <a href="https://github.com/douaa1234/CornealUlcerAssessmentApp"><img src="https://img.shields.io/badge/Corneal%20Ulcer%20Repo-F7F1FB?style=for-the-badge&logo=github&logoColor=4B2F83&labelColor=DCCBFF&color=DCCBFF" alt="Corneal Ulcer Repo" /></a>
       </p>
       <p><sub>U-Net • TensorFlow • Medical Imaging • Computer Vision • Healthcare AI</sub></p>
     </td>
