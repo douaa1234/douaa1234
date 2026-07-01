@@ -125,17 +125,27 @@ I'm especially interested in software engineering, AI, full-stack development, h
   </tr>
 </table>
 
-## Beyond Tech
+## 🌍 Beyond Tech
 
-- I love skiing because it has the same mix of focus and challenge that good technical work has
-- Astronomy is one of those things I always come back to
-- I really enjoy travelling and seeing new places
-- I’m always picking up new things just to see what I can make with them
+<table>
+  <tr>
+    <td valign="top" width="56%">
+      <p>When I’m not coding, I love exploring new places, learning random interesting things, and taking on new challenges.</p>
+      <br />
+      <p>⛷️ Skiing</p>
+      <p>🌌 Astronomy</p>
+      <p>✈️ Travel</p>
+      <p>📚 Always learning</p>
+    </td>
+    <td valign="top" width="44%" align="center">
+      <img src="./skiing-beyond-tech.jpg" alt="Douaa skiing in the mountains" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="./floating-stars.svg" alt="Floating stars" width="220" />
 </div>
-
 ## Let's Connect
 
 <div align="center">
